@@ -9,4 +9,5 @@ def my_find(collection)
     end
   else
     "No block was provided!"
+  end
 end
